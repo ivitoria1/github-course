@@ -9,3 +9,5 @@ Gostou do curso? Quer mais? Ajude com uma doação, até um café é valido.
 Modificação para o GIT REMOTE.
 
 Novos Comandos do GIT
+
+Readme apos a tag 1.0.0
