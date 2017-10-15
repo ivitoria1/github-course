@@ -11,3 +11,5 @@ Modificação para o GIT REMOTE.
 Novos Comandos do GIT
 
 Readme apos a tag 1.0.0
+
+Commit com problema utilizar o comando git revert
